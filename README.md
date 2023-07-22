@@ -1,7 +1,7 @@
 # Learn_MobileAI
 Learning about working AI on Mobile(iOS/Android)
 
-# Language Version
+## Language Version
 + Dart
 + Flutter
 + Swift
@@ -9,11 +9,11 @@ Learning about working AI on Mobile(iOS/Android)
 + Java
 + Kotlin
 
-# AI Module on Mobile
+## AI Module on Mobile
 + CoreML (Mac)
 + ML Kit
 
-# AI Library on Developer host machine
+## AI Library on Developer host machine
 + Pytorch
 + Tensorflow Lite
 + ONNX
