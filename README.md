@@ -2,12 +2,13 @@
 Learning about working AI on Mobile(iOS/Android)
 
 ## Language Version
-+ Dart : Dart SDK version: 2.19.2 (stable)
-+ Flutter
-+ Swift
-+ Objective-C
-+ Java
-+ Kotlin
++ Dart : 2.19.2 (stable)
++ Flutter : 3.7.3 (stable)
++ DevTools : 2.20.1
++ Swift : 
++ Objective-C : 
++ Java : 
++ Kotlin : 
 
 ## AI Module on Mobile
 + CoreML (Mac)
