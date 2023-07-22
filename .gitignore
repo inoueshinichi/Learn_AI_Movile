@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+
+# Deply folder
+android/
+ios/
+macos/
+windows/
+web/
