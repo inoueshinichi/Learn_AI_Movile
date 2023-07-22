@@ -2,7 +2,7 @@
 Learning about working AI on Mobile(iOS/Android)
 
 ## Language Version
-+ Dart
++ Dart : Dart SDK version: 2.19.2 (stable)
 + Flutter
 + Swift
 + Objective-C
